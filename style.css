@@ -1,0 +1,111 @@
+/*
+resizes {
+	background-color: #ffffff;
+}
+*/
+.blue-line-header {
+	background-color: #023875;
+	width: 80%;
+	height: 45px;
+	margin-left: 125px;
+	padding-left: 25px;
+	border-radius: 8px;
+}
+.logo {
+    display: inline-block;
+	vertical-align: middle;
+}
+.logo-text {
+	float: left;
+	padding-left: 10px;
+	margin-left: 143px;
+	line-height: 12px;
+}
+.logo-image {
+	float; left; 
+	padding-left: 300px;
+	margin-left: 100px;    
+	padding-top: 25px;
+}
+h1 {
+	color: #023875;
+	font-size: 48px;
+	font-family: Arial;
+}
+.bt {
+	color: #023875;
+	font-size: 24px;
+	font-family: Arial;
+}
+.contact-number {
+	float: right;
+	padding-right: 140px;
+	line-height: 8px;
+}
+.river {
+	padding-top: 30px;
+	padding-left: 135px;
+	width: 80%;
+}
+.number {
+	color: #023875;
+	font-size: 24px;
+	font-family: Arial;
+}
+content {
+	display: inline-block;
+	vertical-align: middle;
+}
+.text {
+	float: left;
+	width: 500px;
+	padding-left: 136px;
+}
+h2 {
+	color: #023875;
+	font-size: 24px;
+	font-family: Arial;
+}
+.maine-text {
+	color: #343434;
+	font-size: 13px;
+	font-family: Arial;
+}
+.menu {
+	float: right;
+	width: 500px;
+}
+.blue-line {
+	background-color: #023875;
+	width: 300px;
+	height: 45px;
+	margin-left: 67px;
+	margin-top: 15px;
+	color: #ffffff;
+	font-size: 18px;
+	font-family: Arial;
+	 min-height: 45px;
+    line-height: 45px;
+	text-align: center;
+}
+li {
+	list-style-type: none;
+	line-height: 2.1;
+	padding-left: 45px;
+	color: #023875:
+	font-size: 14px;
+	font-family: Arial;
+}
+.blue-line-footer {
+	background-color: #023875;
+	width: 80%;
+	height: 45px;
+	margin-left: 125px;
+	padding-left: 25px;
+	margin-top: 118px;
+	padding-top: 4px;
+	color: #ffffff;
+	font-size: 14px;
+	font-family: Arial;	
+	border-radius: 8px;
+}
